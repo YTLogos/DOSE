@@ -28,9 +28,7 @@ Imports:
     qvalue,
     reshape2,
     stats,
-    utils,
-    MPO.db,
-    HPO.db
+    utils
 Suggests:
     prettydoc,
     clusterProfiler,
